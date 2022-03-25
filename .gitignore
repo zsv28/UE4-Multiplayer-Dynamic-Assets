@@ -1,0 +1,9 @@
+.idea
+.vs
+*.sln
+*_BuiltData.uasset
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
